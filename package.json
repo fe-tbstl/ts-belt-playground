@@ -1,0 +1,17 @@
+{
+  "name": "ts-belt",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {},
+  "devDependencies": {
+    "@types/node": "^20.4.2",
+    "eslint": "^8.45.0",
+    "eslint-plugin-functional": "^5.0.8",
+    "ts-node": "^10.9.1",
+    "tslib": "^2.6.0",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "@mobily/ts-belt": "^3.13.1"
+  }
+}
